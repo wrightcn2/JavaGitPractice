@@ -9,6 +9,10 @@ public abstract class Triangle extends Shape
 	{
 		System.out.println("I am a triangle!");
 	}
+	public void sayType()
+	{
+		System.out.println("I am a polygon!");
+	}
 
 
 

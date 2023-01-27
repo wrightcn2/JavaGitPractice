@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public abstract class Demo
+
+public class Demo implements Name
 {
 	public static void main(String[] args)
 	{
